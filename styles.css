@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #80ff60;
+    color: rgb(255, 255, 255);
+    padding: 1em 0;
+    text-align: center;
+    background-image: url(Grass.jpg);
+}
+
+nav ul {
+    font-family: Arial, sans-serif;
+    list-style: none;
+    padding: 1em 0;
+}
+
+nav ul li {
+    font-family: Arial, sans-serif;
+    display: inline;
+    margin: 0 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+
+
+
+.img-lemon {
+    width: 1920px;
+    height: 200px;
+    background-image: url(Lemon.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
